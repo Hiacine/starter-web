@@ -3,6 +3,8 @@
 START START START
 This repository is for showing how Git and GitHub work
 
+Hé Ho
+
 ## Introduction
 Je rajoute une intro
 C'est pas mal GIT
