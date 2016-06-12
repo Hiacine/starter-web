@@ -16,4 +16,5 @@ just do it
 
 ## How to contribute
 
+just pay
 
