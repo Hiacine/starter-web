@@ -27,3 +27,4 @@ en euro
 ### Copyright
 
 	2016 HIACINE GHAOUI
+	Tout droits réservés
