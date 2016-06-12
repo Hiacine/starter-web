@@ -18,3 +18,5 @@ just do it
 
 just pay
 
+en euro
+
