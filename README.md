@@ -20,3 +20,7 @@ just pay
 
 en euro
 
+
+### Copyright
+
+	2016 HIACINE GHAOUI
